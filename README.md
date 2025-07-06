@@ -14,16 +14,6 @@
 
 ---
 
-## 🛠️ Featured Projects
-| ⭐ Project | 🔗 Link | 📝 Deskripsi |
-|--|--|--|
-| 📦 resize-images-output | [Repo](https://github.com/ahmaddedad01/resize-images-output) | Python script untuk resize & convert gambar produk ke .webp |
-| 🐥 python_duckdb | [Repo](https://github.com/ahmaddedad01/python_duckdb) | Eksperimen database analitik DuckDB |
-| 📋 simple_todo_rest_api | [Repo](https://github.com/ahmaddedad01/simple_todo_rest_api) | REST API sederhana pakai HTML |
-| 🌱 proyek_mini | [Repo](https://github.com/ahmaddedad01/proyek_mini) | Mini project JavaScript |
-
----
-
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmaddedad01&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub Stats" height="150"/>
